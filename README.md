@@ -82,14 +82,17 @@
 </p>
 <br/>
 
-[ ## ⚙️ &nbsp;GitHub Analytics ]: #
+## ⚙️ &nbsp;GitHub Analytics 
 
-[<p align="center"> ]: #
-[<a href="https://github.com/luiselianm"> ]: #
-[  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luiselianmg&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> ]: #
-[  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luiselianmg&layout=compact&langs_count=8&theme=algolia"/> ]: #
-[    <img src="https://streak-stats.demolab.com?user=luiselianm&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=15&date_format=M%20j%5B,%20Y%5D&order=3" height="200" alt="streak graph"  /> ]: #
-[</a> ]: #
-[</p> ]: #
+<p align="center"> 
+<a href="https://github.com/luiselianm"> 
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luiselianmg&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luiselianmg&layout=compact&langs_count=8&theme=algolia"/> 
+  <div align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=luiselianmg&theme=algolia"/> 
+  </div>
+<div align="center">
+</a>  
+</p> 
 
 
