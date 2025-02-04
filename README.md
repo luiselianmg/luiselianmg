@@ -22,6 +22,14 @@
       rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"
       alt="angular" width="40" height="40" /> </a>
     </a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png"
+      alt="c#" width="40" height="40" /> 
+    </a>
+    <a href="https://dotnet.microsoft.com/en-us/download/dotnet/8.0" target="_blank" rel="noreferrer"> <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png"
+      alt="net_core" width="40" height="40" /> 
+    </a>  
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
       rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript" width="40" height="40" /> </a>
@@ -37,14 +45,6 @@
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg"
       alt="bootstrap" width="40" height="40" /> 
-    </a>
-    <a href="https://www.python.org/" target="_blank"
-      rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python" width="40" height="40" /> </a>
-    </a>
-    <a href="https://fastapi.tiangolo.com/" target="_blank"
-      rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"
-      alt="fastapi" width="40" height="40" /> </a>
     </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
@@ -62,25 +62,21 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
       alt="docker" width="40" height="40" /> 
     </a>
-</p>
-<br/>
-
-<h3 align="left">📝 Learning:</h3>
-<p align="left"> 
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png"
-      alt="c#" width="40" height="40" /> 
-    </a>
-    <a href="https://dotnet.microsoft.com/en-us/download/dotnet/8.0" target="_blank" rel="noreferrer"> <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png"
-      alt="net_core" width="40" height="40" /> 
-    </a>  
     <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img
       src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg"
       alt="rabbitmq" width="40" height="40" /> 
-    </a>  
+    </a> 
+    <a href="https://jwt.io/" target="_blank" rel="noreferrer"> <img
+      src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg"
+      alt="jwt" width="40" height="40" /> 
+    </a> 
 </p>
 <br/>
+
+<!-- <h3 align="left">📝 Learning:</h3>
+<p align="left"> 
+</p>
+<br/> -->
 
 ## ⚙️ &nbsp;GitHub Analytics 
 
