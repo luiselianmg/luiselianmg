@@ -5,7 +5,7 @@
 <h3 align="left">🤝 About Me:</h3>
 
 - 👨‍🎓 Software Engineer student
-- 💻 Fullstack Junior developer
+- 💻 Fullstack developer
 
 <br/>
 <h3 align="left">🧰 Languages and Tools:</h3>
